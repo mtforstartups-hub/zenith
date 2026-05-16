@@ -276,7 +276,7 @@ export default function MainNavbar() {
                   <Button
                     variant="ghost"
                     className="w-full justify-center text-red-600 hover:bg-red-50"
-                    // onClick={() => { logout(); setMobileMenuOpen(false); window.location.href = "/"; }}
+                  // onClick={() => { logout(); setMobileMenuOpen(false); window.location.href = "/"; }}
                   >
                     Sign out
                   </Button>
